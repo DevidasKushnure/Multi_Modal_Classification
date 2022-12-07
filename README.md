@@ -9,3 +9,6 @@ reference paper link:
 Suryawanshi, Shardul, et al. "Multimodal meme dataset (MultiOFF) for identifying
 offensive content in image and text." Proceedings of the second workshop on trolling,
 aggression and cyberbullying. 2020.
+
+Just download the notebook modify the dataset path and run the code
+Enjoy!
