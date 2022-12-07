@@ -11,4 +11,6 @@ offensive content in image and text." Proceedings of the second workshop on trol
 aggression and cyberbullying. 2020.
 
 Just download the notebook modify the dataset path and run the code
-Enjoy!
+
+For the appraoch follwed to implement the problem just follow the Implemntation_approach.pdf for more detail understanding about the project.
+
